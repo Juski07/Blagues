@@ -1,1 +1,7 @@
 0 + 0 = tête à toto MDR
+Une requête TCP entre dans un bar et dit :
+
+Je veux une bière
+Vous voulez une bière ?
+Oui, je veux une bière
+Très bien
